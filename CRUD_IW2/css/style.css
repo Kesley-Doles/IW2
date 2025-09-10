@@ -1,0 +1,17 @@
+.bg-dark::placeholder{
+        color:white;
+        opacity:0.5;
+    }
+    body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+/* Centralizar todos os textos */
+body, h1, h2, h3, h4, h5, h6, p, label, input, table, th, td, button {
+  text-align: center;
+}
+
+/* Opcional: deixar tabela mais legível */
+table td, table th {
+  vertical-align: middle;
+}
